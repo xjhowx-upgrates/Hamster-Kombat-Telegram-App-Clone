@@ -23,5 +23,5 @@ npm run dev
 
 npm run build
 
-👑 @Dec @xJHOWx 🚀 
+👑 @Dev @xJHOWx 🚀 
 
