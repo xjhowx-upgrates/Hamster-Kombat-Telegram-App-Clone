@@ -1,4 +1,4 @@
-# Hamster Kombat Telegram Mini App Clone
+# Hamster Kombat Telegram App Clone
 
 Este é um clone de um jogo no Telegram chamado "Hamster Kombat" - Desenvolvido com **React**, **Vite**, **TypeScript** e **Tailwind CSS**.
 
