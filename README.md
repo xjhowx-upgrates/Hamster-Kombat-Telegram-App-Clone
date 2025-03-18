@@ -23,12 +23,5 @@ npm run dev
 
 npm run build
 
-🔥 Melhorias Implementadas
-✅ Otimização do Tailwind para remover CSS desnecessário.
-✅ Atualização e revisão das dependências do projeto.
-✅ Ajustes e melhorias no código e na estrutura.
-✅ Padronização e ajustes no código para melhor performance.
-✅ Substituição de "Nikandr" por "xJHOWx".
-
 👑 @Dec @xJHOWx 🚀 
 
