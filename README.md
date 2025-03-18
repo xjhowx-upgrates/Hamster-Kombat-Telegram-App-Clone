@@ -30,51 +30,5 @@ npm run build
 ✅ Padronização e ajustes no código para melhor performance.
 ✅ Substituição de "Nikandr" por "xJHOWx".
 
-👑 Autor
-Projeto atualizado e otimizado por xJHOWx 🚀 
+👑 @Dec @xJHOWx 🚀 
 
-
----
-
-### **5️⃣ GERAR O ZIP FINAL**
-Após fazer as alterações, você pode compactar o projeto para facilitar o envio.  
-
-#### Como fazer:  
-1. **No Windows**  
-   - Clique com o botão direito na pasta do projeto > `Enviar para` > `Pasta compactada (.zip)`.  
-
-2. **No Mac/Linux**  
-   - No terminal, vá até a pasta do projeto e execute:  
-     
-     zip -r Hamster-Kombat-Telegram-Mini-App-Updated.zip .
-     
-
-
-### **6️⃣ SUBIR PARA O GITHUB**
-Agora, vamos colocar esse projeto no GitHub.
-
-#### Como fazer:  
-1. **Crie um repositório no GitHub** → Acesse [github.com/new](https://github.com/new)  
-2. **No terminal, vá até a pasta do projeto**  
-
-   cd /caminho/do/seu/projeto
-
-3. Inicie o Git no diretório
-
-git init
-
-4. Adicione os arquivos ao commit
-
-git add .
-git commit -m "Versão otimizada do Hamster Kombat Mini App"
-
-5. Conecte ao repositório do GitHub (substitua URL_DO_SEU_REPO)
-
-git remote add origin URL_DO_SEU_REPO
-git branch -M main
-
-6. Envie para o GitHub
-
-git push -u origin main  
-
-Pronto! Agora seu projeto está mais otimizado, atualizado e profissional. 🚀"# Hamster-Kombat-Telegram-Mini-App-Clone" 
